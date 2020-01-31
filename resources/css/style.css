@@ -4,9 +4,50 @@
     text-align: center;
     background-color: black;
     color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 body {
     display: flex;
     flex-direction: column;
+}
+
+a {
+    color: aquamarine;
+    margin-top: 1%;    
+    margin-bottom: 1%;
+
+}
+
+h1 {
+    font-size: 50px;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+h4 {
+    font-size: 21px;
+    color: grey;
+    margin-bottom: 1%;
+    margin-top: 1%;
+}
+
+.copyright {
+    text-align: right;
+}
+
+.fa-copyright {
+    color: white;
+    margin-right: 1%;
+}
+
+.image {
+    margin-bottom: 2%;
 }
